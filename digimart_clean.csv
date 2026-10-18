@@ -1,0 +1,19 @@
+order_id,order_date,product,category,quantity,unit_price,payment_method,city,revenue
+ORD001,2026-08-01,Mechanical Keyboard,Electronics,2.0,450000.0,Qris,Makassar,900000.0
+ORD002,2026-08-01,Wireless Mouse,Electronics,3.0,150000.0,Transfer,Makassar,450000.0
+ORD003,2026-08-02,Usb Hub,Accessories,4.0,85000.0,Qris,Gowa,340000.0
+ORD004,2026-08-02,Mechanical Keyboard,Electronics,1.0,450000.0,E-Wallet,Makassar,450000.0
+ORD005,2026-08-03,Laptop Stand,Accessories,2.0,175000.0,Transfer,Maros,350000.0
+ORD006,2026-08-03,Wireless Mouse,Electronics,5.0,150000.0,Qris,Gowa,750000.0
+ORD008,2026-08-04,Laptop Stand,Accessories,3.0,175000.0,Qris,Maros,525000.0
+ORD009,2026-08-05,Mechanical Keyboard,Electronics,2.0,450000.0,Transfer,Makassar,900000.0
+ORD010,2026-08-05,Usb Hub,Accessories,6.0,85000.0,E-Wallet,Gowa,510000.0
+ORD011,2026-08-06,Wireless Mouse,Electronics,2.0,150000.0,Qris,Makassar,300000.0
+ORD012,2026-08-06,Laptop Stand,Accessories,4.0,175000.0,Transfer,Gowa,700000.0
+ORD013,2026-08-07,Mechanical Keyboard,Electronics,1.0,450000.0,Qris,Makassar,450000.0
+ORD014,2026-08-07,Usb Hub,Accessories,3.0,85000.0,Transfer,Maros,255000.0
+ORD015,2026-08-08,Wireless Mouse,Electronics,4.0,150000.0,E-Wallet,Gowa,600000.0
+ORD016,2026-08-08,Laptop Stand,Accessories,2.0,175000.0,Qris,Makassar,350000.0
+ORD017,2026-08-09,Usb Hub,Accessories,5.0,85000.0,Transfer,Gowa,425000.0
+ORD018,2026-08-09,Mechanical Keyboard,Electronics,2.0,450000.0,Qris,Makassar,900000.0
+ORD019,2026-08-10,Wireless Mouse,Electronics,3.0,150000.0,Qris,Makassar,450000.0
